@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Hüseyin</h1>
-<h3 align="center">.Net Core Geliştiricisi</h3>
+<h3 align="center">.Net Core Developer</h3>
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
