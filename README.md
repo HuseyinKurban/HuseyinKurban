@@ -1,4 +1,3 @@
-
 <h1 align="center">Merhaba 👋, Ben Hüseyin</h1>
 <h3 align="center">.Net Core Developer</h3>
 
