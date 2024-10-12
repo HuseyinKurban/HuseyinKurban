@@ -1,4 +1,4 @@
-https://onerbilisim.com/upload/images/logo-net-core-e1631791117436-66b9f46d4979b.jpeg
+
 <h1 align="center">Merhaba 👋, Ben Hüseyin</h1>
 <h3 align="center">.Net Core Developer</h3>
 
