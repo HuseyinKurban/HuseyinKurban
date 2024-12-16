@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben Hüseyin Kurban</h1>
+<h1 align="center">Merhaba 👋, Ben Hüseyin</h1>
 <h3 align="center">.Net Core Developer</h3>
 
 <h3 align="left">Benimle iletişime geçin:</h3>
